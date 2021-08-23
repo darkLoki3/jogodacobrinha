@@ -1,3 +1,2 @@
-# jogo da cobrinha
-===============================================
-Jogo desenvolvido como desafio da DIO
+# jogodacobrinha
+jogo da cobrinha
